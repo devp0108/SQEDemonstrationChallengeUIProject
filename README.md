@@ -74,4 +74,8 @@ Small  : 2    	  : abc  : 6578596970	 : Blank
  6. No validation for email format
  7. When payment type is selected as credit card, UI is not displaying the fields related to credit card detail
  
+ # Automation
+ 1. Created a page object model class "PizzaOrderForm" under main package.
+ 2. Created a method to capture the screenshot under the TestBase class
+ 3. Created 2 methods "positiveTest" and "negativeTest" under the DemoTest class.
 
